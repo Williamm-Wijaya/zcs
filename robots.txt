@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://java-138.wider-challenge.org/sitemap.xml
